@@ -1,0 +1,50 @@
+{
+  "name": "steel-version",
+  "description": "a version-controller of steel",
+  "version": "0.0.15",
+  "homepage": "https://github.com/lonefy/steel-version#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonefy/steel-version.git"
+  },
+  "keywords": [
+    "steel",
+    "version"
+  ],
+  "author": {
+    "name": "Lonefy",
+    "email": "lonefy@foxmail.com"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": "MIT",
+  "maintainers": [
+    {
+      "name": "lonefy",
+      "email": "lonefy@foxmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/lonefy/steel-version/issues"
+  },
+  "_id": "steel-version@0.0.15",
+  "scripts": {},
+  "_shasum": "08f2ee2e383f3744f7b474cf23a66045604e63ae",
+  "_from": "steel-version@*",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "lonefy",
+    "email": "lonefy@foxmail.com"
+  },
+  "dist": {
+    "shasum": "cc078c2827a93a16e0f3d73b1dfc1eb484ab4519",
+    "tarball": "http://registry.npmjs.org/steel-version/-/steel-version-0.0.13.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/steel-version/-/steel-version-0.0.13.tgz",
+  "readmeFilename": "README.md",
+  "readme": "# Steel Version\r\n"
+}
