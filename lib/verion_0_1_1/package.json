@@ -34,6 +34,7 @@
 	"gulp-steel-jadefn-wrap-commonjs": "*",
 	"gulp-steel-server": "*",
   "gulp-steel-css-postfix": "*",
+  "gulp-steel-css-fix": "*",
   "steel-commander": "*"
   }
 }
