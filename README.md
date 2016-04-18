@@ -1,3 +1,3 @@
 # Steel Version
 
-use to mange file versions
+[Move to] [ria-generator](https://github.com/steeljs-org/ria-generator)
